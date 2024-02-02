@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "types": ["@types/json-schema"],
+    "jsx": "react",
+    "paths": {
+      "@/*": ["./*"]
+    }
+  }
+}
